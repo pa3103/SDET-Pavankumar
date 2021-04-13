@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-13T18:26:40Z" name="Default suite" finished-at="2021-04-13T18:28:03Z" duration-ms="82952">
+    <groups>
+    </groups>
+    <test started-at="2021-04-13T18:26:40Z" name="Default test" finished-at="2021-04-13T18:28:03Z" duration-ms="82952">
+      <class name="vttiger_TC.CreateOrg">
+        <test-method signature="createOrg()[pri:0, instance:vttiger_TC.CreateOrg@413d1baf]" started-at="2021-04-13T18:26:40Z" name="createOrg" finished-at="2021-04-13T18:28:03Z" duration-ms="82658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrg -->
+      </class> <!-- vttiger_TC.CreateOrg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
